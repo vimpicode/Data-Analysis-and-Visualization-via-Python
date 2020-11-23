@@ -59,6 +59,8 @@ For the most part we perfomed Countplots, Boxplots and Lineplots.
 
 ![](https://github.com/vimpicode/Data-Analysis-and-Visualization-with-Python/blob/main/5.png)
 
+![](https://github.com/vimpicode/Data-Analysis-and-Visualization-with-Python/blob/main/6.png)
+
 # Conclusion
 The conclusions arrived from each of the plots, could significantly change if we apply the same dataset in regression model such as Multilinear Regression. However, that can be done in another project since it is not the scope of this one. Also, analysing one feature at a time gives us a limited and skewed understanding of the explanatory power of each feature. For further projects we can also conduct additional analysis of the descriptive statistics for all features.
 
